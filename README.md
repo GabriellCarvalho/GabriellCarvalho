@@ -6,7 +6,9 @@
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=GabriellCarvalho&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GabriellCarvalho&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=GabriellCarvalho&theme=rogue&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=GabriellCarvalho&theme=rogue&hide_border=true)<br/>
+
+![snake gif](https://github.com/GabriellCarvalho/GabriellCarvalho/blob/output/github-contribution-grid-snake.gif)
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gabriel___lc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-lopes-28b714193/)
