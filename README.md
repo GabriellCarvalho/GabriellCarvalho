@@ -16,5 +16,5 @@
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=GabriellCarvalho&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GabriellCarvalho&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/><br/>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GabriellCarvalho&bg_color=211c1f&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)<br/><br/>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabriellCarvalho)](https://github.com/ashutosh00710/github-readme-activity-graph)<br/><br/>
 ![snake gif](https://github.com/GabriellCarvalho/GabriellCarvalho/blob/output/github-contribution-grid-snake.svg)
