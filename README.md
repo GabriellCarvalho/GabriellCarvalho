@@ -8,12 +8,12 @@
 
 ---
 
-# 🌐Socials
+## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gabriel___lc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-lopes-28b714193/)
 
 ---
 
-# 📊GitHub Stats :
+## 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=GabriellCarvalho&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GabriellCarvalho&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/><br/>
