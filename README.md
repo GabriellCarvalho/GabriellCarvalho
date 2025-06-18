@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Lopes Carvalho</h1>
-<h3 align="center">Computer Science Student at Instituto Federal do Sudeste de Minas Gerais Campus Rio Pomba Minas Gerais (IFSEMG)</h3>
+<h3 align="center">Computer Scientist</h3>
 
 ![](https://komarev.com/ghpvc/?username=your-github-GabriellCarvalho&color=green)
 
