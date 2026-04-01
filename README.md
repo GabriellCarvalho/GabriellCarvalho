@@ -47,8 +47,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabriellCarvalho&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriellCarvalho&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GabriellCarvalho&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GabriellCarvalho&theme=radical&hide_border=true&layout=compact" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -56,5 +56,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/GabriellCarvalho/GabriellCarvalho/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/GabriellCarvalho/GabriellCarvalho/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
